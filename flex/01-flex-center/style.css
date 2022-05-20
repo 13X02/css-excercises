@@ -3,6 +3,9 @@
     border: 4px solid midnightblue;
     width: 400px;
     height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
   
   .box {
@@ -11,4 +14,5 @@
     text-align: center;
     border: 6px solid maroon;
     width: 80px;
-    heig
+    height: 80px;
+}
